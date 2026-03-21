@@ -12,7 +12,7 @@ import img6 from "../assets/demo-app (6).webp";
 
 const localImages = [img1, img2, img3, img4, img5, img6];
 
-// 🔥 number format
+
 const formatNumber = (num) => {
   if (num >= 1000000)
     return (num / 1000000).toFixed(1).replace(".0", "") + "M";
@@ -21,7 +21,7 @@ const formatNumber = (num) => {
   return num;
 };
 
-// 🔥 localStorage helpers
+
 const getInstalledApps = () => {
   return JSON.parse(localStorage.getItem("installedApps")) || [];
 };
@@ -34,23 +34,23 @@ const AppDetails = () => {
   const { id } = useParams();
   const app = appsData.find((a) => a.id === parseInt(id));
 
-  // 🔥🔥 MAIN FIX (redirect to error page)
+ 
   if (!app) {
     return <Navigate to="/not-found" />;
   }
 
-  // 🔥 image fix
+
   const image =
     app.image && app.image.startsWith("http")
       ? app.image
       : localImages[(app.id - 1) % 6];
 
-  // 🔥 check installed properly
+
   const [installed, setInstalled] = useState(() =>
     getInstalledApps().some((a) => a.id === app.id)
   );
 
-  // 🔥 ratings
+
   const totalRatings =
     app.ratings?.reduce((sum, r) => sum + r.count, 0) || 0;
 
@@ -63,7 +63,7 @@ const AppDetails = () => {
       percent: totalRatings ? (r.count / totalRatings) * 100 : 0,
     }));
 
-  // 🔥 INSTALL FIX
+
   const handleInstall = () => {
     const storedApps = getInstalledApps();
 

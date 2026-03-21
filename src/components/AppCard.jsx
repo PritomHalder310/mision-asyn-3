@@ -16,7 +16,7 @@ const AppCard = ({ app }) => {
 
   return (
     <div
-      onClick={() => navigate(`/app/${app.id}`)}  // ✅ FIX HERE
+      onClick={() => navigate(`/app/${app.id}`)}  
       className="bg-white rounded-xl shadow-md hover:shadow-xl cursor-pointer transition overflow-hidden w-[316px]"
     >
       {/* Image */}

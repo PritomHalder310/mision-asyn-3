@@ -5,21 +5,21 @@ const MyInstallation = () => {
   const [apps, setApps] = useState([]);
   const [sortType, setSortType] = useState("");
 
-  // 🔥 number format
+
   const formatNumber = (num) => {
     if (num >= 1000000) return (num / 1000000).toFixed(0) + "M";
     if (num >= 1000) return (num / 1000).toFixed(0) + "K";
     return num;
   };
 
-  // 🔥 load data
+
   useEffect(() => {
     const storedApps =
       JSON.parse(localStorage.getItem("installedApps")) || [];
     setApps(storedApps);
   }, []);
 
-  // 🔥 uninstall
+
   const handleUninstall = (id) => {
     const updatedApps = apps.filter((app) => app.id !== id);
 
@@ -29,7 +29,7 @@ const MyInstallation = () => {
     toast.success("App Uninstalled ❌");
   };
 
-  // 🔥 SORTING LOGIC
+
   const sortedApps = [...apps].sort((a, b) => {
     if (sortType === "high") return b.downloads - a.downloads;
     if (sortType === "low") return a.downloads - b.downloads;
@@ -52,7 +52,7 @@ const MyInstallation = () => {
       <div className="flex justify-between items-center mb-6">
         <p className="font-medium">{apps.length} Apps Found</p>
 
-        {/* 🔥 WORKING SORT DROPDOWN */}
+        
         <select
           value={sortType}
           onChange={(e) => setSortType(e.target.value)}

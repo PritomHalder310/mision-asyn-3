@@ -6,7 +6,7 @@ import googleIcon from '../assets/google-play.png';
 import appleIcon from '../assets/apple-logo.png';
 import { useNavigate } from "react-router-dom";
 
-// ✅ local images import
+
 import img1 from "../assets/demo-app (1).webp";
 import img2 from "../assets/demo-app (2).webp";
 import img3 from "../assets/demo-app (3).webp";
