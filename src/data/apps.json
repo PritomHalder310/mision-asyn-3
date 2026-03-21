@@ -1,0 +1,1832 @@
+[
+  {
+    "id": 1,
+    "title": "TaskMaster Pro",
+    "companyName": "LogicSoft Systems",
+    "image": "../assets/demo-app (1).webp",
+    "description": "An all-in-one productivity tool for managing daily tasks and team collaboration effectively.",
+    "size": 45,
+    "reviews": 1250,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pixel Editor",
+    "companyName": "Creative Studio",
+    "image": "../assets/demo-app (2).webp",
+    "description": "Advanced photo editing app with professional filters and AI-based retouching tools.",
+    "size": 120,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 60
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 340
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "EcoRide",
+    "companyName": "Green Mobility",
+    "image": "../assets/demo-app (3).webp",
+    "description": "Book electric scooters and bikes instantly within your city for a sustainable commute.",
+    "size": 32,
+    "reviews": 3200,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 600
+      },
+      {
+        "name": "5 star",
+        "count": 2000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "FitTrack",
+    "companyName": "Healthify Tech",
+    "image": "../assets/demo-app (4).webp",
+    "description": "Monitor your workouts, heart rate, and sleep cycles with real-time analytics.",
+    "size": 58,
+    "reviews": 450,
+    "ratingAvg": 3.9,
+    "downloads": 50000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 70
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 100
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "FoodieExpress",
+    "companyName": "Delish IT",
+    "image": "../assets/demo-app (5).webp",
+    "description": "Fast and reliable food delivery from the best restaurants in your neighborhood.",
+    "size": 25,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 1000
+      },
+      {
+        "name": "4 star",
+        "count": 3000
+      },
+      {
+        "name": "5 star",
+        "count": 10000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "SecurePay",
+    "companyName": "Fintech Solutions",
+    "image": "../assets/demo-app (6).webp",
+    "description": "A highly secure digital wallet for seamless online payments and bank transfers.",
+    "size": 18,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 600
+      },
+      {
+        "name": "5 star",
+        "count": 1000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "LanguageLeap",
+    "companyName": "EduGlobal",
+    "image": "https://img.freepik.com/free-vector/language-learning-concept-illustration_114360-1112.jpg",
+    "description": "Learn over 30 languages through interactive lessons and native speaker conversations.",
+    "size": 85,
+    "reviews": 980,
+    "ratingAvg": 4.1,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 250
+      },
+      {
+        "name": "5 star",
+        "count": 350
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "StreamBox",
+    "companyName": "Nova Media",
+    "image": "https://img.freepik.com/free-vector/video-streaming-concept-illustration_114360-4857.jpg",
+    "description": "Unlimited movies, web series, and live TV channels at your fingertips.",
+    "size": 42,
+    "reviews": 5400,
+    "ratingAvg": 4.3,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 2500
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "ZenMind",
+    "companyName": "Calm Life",
+    "image": "https://img.freepik.com/free-vector/meditation-concept-illustration_114360-1192.jpg",
+    "description": "Guided meditation and relaxing sounds to help you reduce stress and sleep better.",
+    "size": 65,
+    "reviews": 750,
+    "ratingAvg": 4.7,
+    "downloads": 150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 400
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "CodeLab",
+    "companyName": "DevTools Inc",
+    "image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg",
+    "description": "Mobile IDE for coding on the go. Supports Python, JavaScript, and C++.",
+    "size": 95,
+    "reviews": 600,
+    "ratingAvg": 4.0,
+    "downloads": 75000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 200
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "WeatherWise",
+    "companyName": "SkyMetrics",
+    "image": "https://img.freepik.com/free-vector/weather-concept-illustration_114360-1189.jpg",
+    "description": "Hyper-local weather forecasts with accurate storm alerts and UV index.",
+    "size": 15,
+    "reviews": 320,
+    "ratingAvg": 4.4,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 50
+      },
+      {
+        "name": "4 star",
+        "count": 80
+      },
+      {
+        "name": "5 star",
+        "count": 150
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SocialSync",
+    "companyName": "LinkUp Corp",
+    "image": "https://img.freepik.com/free-vector/social-media-concept-illustration_114360-1049.jpg",
+    "description": "Manage all your social media accounts from one single dashboard efficiently.",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 3.8,
+    "downloads": 200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 300
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "GameHub",
+    "companyName": "PlayVerse",
+    "image": "https://img.freepik.com/free-vector/gaming-concept-illustration_114360-2051.jpg",
+    "description": "Access a massive library of indie games that you can play without downloading.",
+    "size": 110,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 3000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 1000
+      },
+      {
+        "name": "4 star",
+        "count": 2000
+      },
+      {
+        "name": "5 star",
+        "count": 4500
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "BudgetBuddy",
+    "companyName": "PennyWise",
+    "image": "https://img.freepik.com/free-vector/personal-finance-concept-illustration_114360-5231.jpg",
+    "description": "Track your daily expenses and save more money with personalized budget plans.",
+    "size": 22,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 800
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "DriveSafe",
+    "companyName": "AutoGuard",
+    "image": "https://img.freepik.com/free-vector/navigation-concept-illustration_114360-1413.jpg",
+    "description": "Smart navigation with real-time speed limit alerts and accident detection.",
+    "size": 74,
+    "reviews": 560,
+    "ratingAvg": 4.3,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 250
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "ShopCart",
+    "companyName": "E-Com Mart",
+    "image": "https://img.freepik.com/free-vector/shopping-app-concept-illustration_114360-1144.jpg",
+    "description": "Browse millions of products and enjoy super-fast delivery at your doorstep.",
+    "size": 40,
+    "reviews": 22000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 13000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "MusicVibe",
+    "companyName": "AudioStream",
+    "image": "https://img.freepik.com/free-vector/listening-music-concept-illustration_114360-1201.jpg",
+    "description": "High-quality music streaming with offline downloads and curated playlists.",
+    "size": 48,
+    "reviews": 9000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1000
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 4000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "QuickScan",
+    "companyName": "Office Tools",
+    "image": "https://img.freepik.com/free-vector/document-concept-illustration_114360-1137.jpg",
+    "description": "Turn your phone into a high-quality PDF scanner with OCR text recognition.",
+    "size": 30,
+    "reviews": 4200,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 2500
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "RecipeBook",
+    "companyName": "Home Chef",
+    "image": "https://img.freepik.com/free-vector/cooking-concept-illustration_114360-1215.jpg",
+    "description": "Thousands of delicious recipes from around the world with step-by-step videos.",
+    "size": 52,
+    "reviews": 310,
+    "ratingAvg": 4.2,
+    "downloads": 80000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 60
+      },
+      {
+        "name": "4 star",
+        "count": 100
+      },
+      {
+        "name": "5 star",
+        "count": 100
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "JobFinder",
+    "companyName": "Career Link",
+    "image": "https://img.freepik.com/free-vector/job-hunt-concept-illustration_114360-1002.jpg",
+    "description": "Find your dream job easily. Apply to thousands of listings with one tap.",
+    "size": 28,
+    "reviews": 1800,
+    "ratingAvg": 4.0,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "HealthTrack",
+    "companyName": "Vitality Labs",
+    "image": "https://img.freepik.com/free-vector/fitness-tracker-concept-illustration_114360-1505.jpg",
+    "description": "Monitor your heart rate, steps, and sleep patterns with real-time AI analysis.",
+    "size": 35,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 850000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "CryptoSwift",
+    "companyName": "BlockChain Tech",
+    "image": "https://img.freepik.com/free-vector/cryptocurrency-concept-illustration_114360-1241.jpg",
+    "description": "Securely buy, sell, and manage your cryptocurrency portfolio in one place.",
+    "size": 55,
+    "reviews": 3400,
+    "ratingAvg": 4.2,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 1200
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "TravelMate",
+    "companyName": "GlobeTrotter",
+    "image": "https://img.freepik.com/free-vector/travel-booking-concept-illustration_114360-2342.jpg",
+    "description": "Plan your trips, book flights, and discover hidden gems around the world.",
+    "size": 68,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 130
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 1400
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "SecureVault",
+    "companyName": "CyberDefend",
+    "image": "https://img.freepik.com/free-vector/safe-browsing-concept-illustration_114360-1436.jpg",
+    "description": "Store your passwords and sensitive documents with military-grade encryption.",
+    "size": 20,
+    "reviews": 850,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "AutoFix",
+    "companyName": "MechWay",
+    "image": "https://img.freepik.com/free-vector/car-service-concept-illustration_114360-2975.jpg",
+    "description": "Book car maintenance and repairs from top-rated local mechanics instantly.",
+    "size": 45,
+    "reviews": 430,
+    "ratingAvg": 4.3,
+    "downloads": 150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 100
+      },
+      {
+        "name": "5 star",
+        "count": 200
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "StudySpark",
+    "companyName": "EduMind",
+    "image": "https://img.freepik.com/free-vector/online-education-concept-illustration_114360-1004.jpg",
+    "description": "Personalized AI tutor for students. Solve math problems and learn science easily.",
+    "size": 50,
+    "reviews": 2800,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 1500
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "SmartHome",
+    "companyName": "IoT Link",
+    "image": "https://img.freepik.com/free-vector/smart-home-concept-illustration_114360-3162.jpg",
+    "description": "Control your lights, AC, and security cameras from any corner of the world.",
+    "size": 30,
+    "reviews": 1100,
+    "ratingAvg": 4.1,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 350
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "TaskFlow",
+    "companyName": "Focusly",
+    "image": "https://img.freepik.com/free-vector/time-management-concept-illustration_114360-1013.jpg",
+    "description": "Boost your productivity with a pomodoro timer and intuitive task manager.",
+    "size": 18,
+    "reviews": 6000,
+    "ratingAvg": 4.9,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 4000
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "PetCare",
+    "companyName": "FurFriends",
+    "image": "https://img.freepik.com/free-vector/veterinary-concept-illustration_114360-2415.jpg",
+    "description": "Track your pet's vaccination, diet, and book appointments with local vets.",
+    "size": 42,
+    "reviews": 560,
+    "ratingAvg": 4.4,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 230
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "EventWise",
+    "companyName": "Gather Inc",
+    "image": "https://img.freepik.com/free-vector/events-concept-illustration_114360-1456.jpg",
+    "description": "Discover upcoming concerts, workshops, and meetups happening in your city.",
+    "size": 25,
+    "reviews": 1900,
+    "ratingAvg": 4.0,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 550
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "ArtPulse",
+    "companyName": "Creative Hub",
+    "image": "https://img.freepik.com/free-vector/creative-process-concept-illustration_114360-1070.jpg",
+    "description": "Explore digital art galleries and connect with independent artists worldwide.",
+    "size": 58,
+    "reviews": 850,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "5 star",
+        "count": 600
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "ScanMate",
+    "companyName": "Utility Pro",
+    "image": "https://img.freepik.com/free-vector/scanning-concept-illustration_114360-3121.jpg",
+    "description": "Quickly scan QR codes and barcodes for price comparison and details.",
+    "size": 12,
+    "reviews": 4500,
+    "ratingAvg": 4.4,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "5 star",
+        "count": 3000
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "CookSnap",
+    "companyName": "Chef AI",
+    "image": "https://img.freepik.com/free-vector/cooking-concept-illustration_114360-1215.jpg",
+    "description": "Take a photo of ingredients and get instant recipe suggestions.",
+    "size": 44,
+    "reviews": 1200,
+    "ratingAvg": 4.2,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "5 star",
+        "count": 800
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "FitMind",
+    "companyName": "Health Pro",
+    "image": "https://img.freepik.com/free-vector/meditation-concept-illustration_114360-1192.jpg",
+    "description": "Mental health exercises and brain training games to stay sharp.",
+    "size": 32,
+    "reviews": 980,
+    "ratingAvg": 4.7,
+    "downloads": 350000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "5 star",
+        "count": 700
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "StockFlow",
+    "companyName": "Market Metrics",
+    "image": "https://img.freepik.com/free-vector/stock-market-analysis-concept-illustration_114360-1435.jpg",
+    "description": "Real-time stock market data and investment portfolio tracking.",
+    "size": 28,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 4500
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "NoteLoom",
+    "companyName": "FlowState",
+    "image": "https://img.freepik.com/free-vector/writing-concept-illustration_114360-1132.jpg",
+    "description": "Mind-mapping and note-taking app for students and professionals.",
+    "size": 22,
+    "reviews": 340,
+    "ratingAvg": 4.1,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "5 star",
+        "count": 200
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "AirClean",
+    "companyName": "EcoSoft",
+    "image": "https://img.freepik.com/free-vector/nature-concept-illustration_114360-1428.jpg",
+    "description": "Check the air quality index (AQI) in your city in real-time.",
+    "size": 15,
+    "reviews": 210,
+    "ratingAvg": 4.3,
+    "downloads": 50000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5
+      },
+      {
+        "name": "5 star",
+        "count": 150
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "CycleTrack",
+    "companyName": "Wheels Inc",
+    "image": "https://img.freepik.com/free-vector/fitness-stats-concept-illustration_114360-2550.jpg",
+    "description": "GPS tracking and route planning for professional cyclists.",
+    "size": 41,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "5 star",
+        "count": 800
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "AutoPark",
+    "companyName": "CityDrive",
+    "image": "https://img.freepik.com/free-vector/car-driving-concept-illustration_114360-8114.jpg",
+    "description": "Find and book parking spots in busy city centers instantly.",
+    "size": 26,
+    "reviews": 750,
+    "ratingAvg": 3.9,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "5 star",
+        "count": 300
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "SleepWell",
+    "companyName": "RestLabs",
+    "image": "https://img.freepik.com/free-vector/night-concept-illustration_114360-1510.jpg",
+    "description": "White noise and sleep analysis to improve your nightly rest.",
+    "size": 38,
+    "reviews": 14000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 11000
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "GameMaster",
+    "companyName": "PixelPlay",
+    "image": "https://img.freepik.com/free-vector/gaming-concept-illustration_114360-2051.jpg",
+    "description": "Host and manage online gaming tournaments effortlessly.",
+    "size": 89,
+    "reviews": 2200,
+    "ratingAvg": 4.4,
+    "downloads": 750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "5 star",
+        "count": 1500
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "DineOut",
+    "companyName": "FoodieLink",
+    "image": "https://img.freepik.com/free-vector/ordering-food-concept-illustration_114360-1311.jpg",
+    "description": "Reserve tables at top restaurants and get exclusive discounts.",
+    "size": 33,
+    "reviews": 5600,
+    "ratingAvg": 4.3,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 3500
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "PayFast",
+    "companyName": "FinSync",
+    "image": "https://img.freepik.com/free-vector/transfer-money-concept-illustration_114360-1375.jpg",
+    "description": "Contactless payments and instant money transfers anywhere.",
+    "size": 24,
+    "reviews": 9000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 6500
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "SkillUp",
+    "companyName": "CourseCloud",
+    "image": "https://img.freepik.com/free-vector/teaching-concept-illustration_114360-1411.jpg",
+    "description": "Master professional skills with short, video-based courses.",
+    "size": 62,
+    "reviews": 3100,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "5 star",
+        "count": 2500
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "HomeFix",
+    "companyName": "ServiceNow",
+    "image": "https://img.freepik.com/free-vector/builder-concept-illustration_114360-1419.jpg",
+    "description": "Find trusted plumbers, electricians, and painters for your home.",
+    "size": 29,
+    "reviews": 890,
+    "ratingAvg": 4.0,
+    "downloads": 200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "5 star",
+        "count": 450
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "PetWalk",
+    "companyName": "Pawsy",
+    "image": "https://img.freepik.com/free-vector/walking-dog-concept-illustration_114360-1440.jpg",
+    "description": "Hire verified dog walkers and pet sitters in your neighborhood.",
+    "size": 21,
+    "reviews": 420,
+    "ratingAvg": 4.6,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "5 star",
+        "count": 300
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "VibeEdit",
+    "companyName": "SnapStudio",
+    "image": "https://img.freepik.com/free-vector/video-editing-concept-illustration_114360-1445.jpg",
+    "description": "Create stunning social media videos with AI-powered effects.",
+    "size": 120,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 19000
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "NewsHub",
+    "companyName": "Global Press",
+    "image": "https://img.freepik.com/free-vector/press-conference-concept-illustration_114360-1520.jpg",
+    "description": "Personalized news feed from thousands of trusted global sources.",
+    "size": 18,
+    "reviews": 5400,
+    "ratingAvg": 4.2,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 3200
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "StarGaze",
+    "companyName": "CosmoTech",
+    "image": "https://img.freepik.com/free-vector/outer-space-concept-illustration_114360-1453.jpg",
+    "description": "Point your phone at the sky to identify stars and constellations.",
+    "size": 95,
+    "reviews": 1100,
+    "ratingAvg": 4.9,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5
+      },
+      {
+        "name": "5 star",
+        "count": 950
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "RealState",
+    "companyName": "PropLink",
+    "image": "https://img.freepik.com/free-vector/real-estate-searching-concept-illustration_114360-1460.jpg",
+    "description": "Buy, sell, or rent houses with interactive 3D virtual tours.",
+    "size": 47,
+    "reviews": 3200,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 2100
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "CodeFlow",
+    "companyName": "DevSphere",
+    "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-1048.jpg",
+    "description": "Review code and manage GitHub pull requests on the go.",
+    "size": 36,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "5 star",
+        "count": 800
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "PlantCare",
+    "companyName": "GreenThumb",
+    "image": "https://img.freepik.com/free-vector/nature-concept-illustration_114360-1428.jpg",
+    "description": "Never forget to water your plants. Identify diseases with AI.",
+    "size": 28,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "5 star",
+        "count": 700
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "SoundMix",
+    "companyName": "BeatLab",
+    "image": "https://img.freepik.com/free-vector/listening-music-concept-illustration_114360-1201.jpg",
+    "description": "Professional DJ mixer and music creation tool for beginners.",
+    "size": 75,
+    "reviews": 6300,
+    "ratingAvg": 4.3,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 4000
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "FastShip",
+    "companyName": "LogiTrack",
+    "image": "https://img.freepik.com/free-vector/delivery-concept-illustration_114360-1405.jpg",
+    "description": "Real-time tracking for all your international and local shipments.",
+    "size": 22,
+    "reviews": 2100,
+    "ratingAvg": 4.1,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "5 star",
+        "count": 1200
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "BookWorm",
+    "companyName": "LibraryX",
+    "image": "https://img.freepik.com/free-vector/reading-concept-illustration_114360-1088.jpg",
+    "description": "Access millions of ebooks and audiobooks for a small monthly fee.",
+    "size": 40,
+    "reviews": 18000,
+    "ratingAvg": 4.6,
+    "downloads": 4000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 13000
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "FocusTimer",
+    "companyName": "DeepWork",
+    "image": "https://img.freepik.com/free-vector/time-management-concept-illustration_114360-1013.jpg",
+    "description": "Stay focused with the Pomodoro technique and atmospheric sounds.",
+    "size": 14,
+    "reviews": 3200,
+    "ratingAvg": 4.8,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "5 star",
+        "count": 2700
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "TranslateIt",
+    "companyName": "LingoSync",
+    "image": "https://img.freepik.com/free-vector/language-translation-concept-illustration_114360-1112.jpg",
+    "description": "Voice and text translation in over 100 languages instantly.",
+    "size": 38,
+    "reviews": 25000,
+    "ratingAvg": 4.4,
+    "downloads": 15000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 18000
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "BudgetPro",
+    "companyName": "WealthWise",
+    "image": "https://img.freepik.com/free-vector/personal-finance-concept-illustration_114360-5231.jpg",
+    "description": "Automated expense tracking and financial goal planning.",
+    "size": 27,
+    "reviews": 4200,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 3000
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "AirMate",
+    "companyName": "SkyFly",
+    "image": "https://img.freepik.com/free-vector/travel-booking-concept-illustration_114360-2342.jpg",
+    "description": "Cheapest flight tickets and hotel deals for your next vacation.",
+    "size": 44,
+    "reviews": 7800,
+    "ratingAvg": 4.2,
+    "downloads": 3500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "5 star",
+        "count": 4800
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "YogaLife",
+    "companyName": "FlexLabs",
+    "image": "https://img.freepik.com/free-vector/yoga-concept-illustration_114360-1416.jpg",
+    "description": "Guided yoga sessions for all levels with 3D pose correction.",
+    "size": 52,
+    "reviews": 1100,
+    "ratingAvg": 4.7,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "5 star",
+        "count": 900
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "AutoBuy",
+    "companyName": "DealerSync",
+    "image": "https://img.freepik.com/free-vector/car-searching-concept-illustration_114360-8114.jpg",
+    "description": "The easiest way to buy or sell used cars with verified inspection.",
+    "size": 39,
+    "reviews": 3400,
+    "ratingAvg": 4.0,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 2000
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "ChatSphere",
+    "companyName": "GlobalConnect",
+    "image": "https://img.freepik.com/free-vector/social-media-concept-illustration_114360-1049.jpg",
+    "description": "Encrypted messaging with high-quality voice and video calls.",
+    "size": 48,
+    "reviews": 65000,
+    "ratingAvg": 4.3,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 42000
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "StudyMate",
+    "companyName": "EduTech",
+    "image": "https://img.freepik.com/free-vector/online-learning-concept-illustration_114360-1004.jpg",
+    "description": "Collaborative study rooms and flashcard sharing for students.",
+    "size": 31,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "5 star",
+        "count": 1600
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "MapGuide",
+    "companyName": "NaviPro",
+    "image": "https://img.freepik.com/free-vector/navigation-concept-illustration_114360-1413.jpg",
+    "description": "Offline maps and navigation with local tourist guide tips.",
+    "size": 110,
+    "reviews": 9200,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 6800
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "WeatherGo",
+    "companyName": "SkyCast",
+    "image": "https://img.freepik.com/free-vector/weather-concept-illustration_114360-1189.jpg",
+    "description": "Accurate 7-day weather forecasts with hourly rainfall alerts.",
+    "size": 19,
+    "reviews": 15000,
+    "ratingAvg": 4.4,
+    "downloads": 8000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 10000
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "TaskMaster",
+    "companyName": "WorkFlow",
+    "image": "https://img.freepik.com/free-vector/project-management-concept-illustration_114360-1013.jpg",
+    "description": "Manage team projects with Kanban boards and progress tracking.",
+    "size": 34,
+    "reviews": 4300,
+    "ratingAvg": 4.1,
+    "downloads": 700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 2500
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "PetLog",
+    "companyName": "VetSphere",
+    "image": "https://img.freepik.com/free-vector/veterinary-concept-illustration_114360-2415.jpg",
+    "description": "Digital medical records and health tracking for your pets.",
+    "size": 26,
+    "reviews": 540,
+    "ratingAvg": 4.7,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "5 star",
+        "count": 450
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "NewsStream",
+    "companyName": "LiveFeed",
+    "image": "https://img.freepik.com/free-vector/breaking-news-concept-illustration_114360-1520.jpg",
+    "description": "Watch live news channels and breaking news alerts 24/7.",
+    "size": 41,
+    "reviews": 3200,
+    "ratingAvg": 4.2,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "5 star",
+        "count": 2100
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "ScanGo",
+    "companyName": "QuickScan",
+    "image": "https://img.freepik.com/free-vector/document-concept-illustration_114360-1137.jpg",
+    "description": "OCR powered scanner to convert any image into editable text.",
+    "size": 29,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 3000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 7000
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Z-Market",
+    "companyName": "E-Hub",
+    "image": "https://img.freepik.com/free-vector/shopping-app-concept-illustration_114360-1144.jpg",
+    "description": "Next-gen marketplace for buying and selling unique gadgets.",
+    "size": 46,
+    "reviews": 11000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 8500
+      }
+    ]
+  }
+]
