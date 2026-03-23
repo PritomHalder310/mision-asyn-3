@@ -63,30 +63,32 @@ const Home = () => {
             </section>
 
             {/* Stats Section */}
-<section className="bg-gradient-to-r from-purple-600 via-purple-500 to-indigo-600 text-white py-24 px-6 sm:px-4">
+            <section className="bg-gradient-to-r from-purple-600 via-purple-500 to-indigo-600 text-white py-24 px-6">
   <div className="max-w-6xl mx-auto">
-    <h2 className="text-3xl md:text-5xl font-extrabold text-center mb-20 sm:text-2xl sm:mb-10">
+
+    <h2 className="text-2xl sm:text-4xl md:text-5xl font-extrabold text-center mb-10 md:mb-20">
       Trusted By Millions, Built For You
     </h2>
 
-    {/* Desktop: 3-column row, Mobile: 1-column stacked centered */}
-    <div className="grid grid-cols-3 gap-16 text-center 
-                sm:grid-cols-1 sm:gap-10 sm:py-6">
-      <div className="sm:mb-4">
-        <p>Total Downloads</p>
-        <h3 className="text-5xl font-bold sm:text-3xl">29.6M</h3>
+    <div className="grid grid-cols-3 sm:grid-cols-1 gap-10 text-center">
+
+      <div>
+        <p className="text-sm opacity-80">Total Downloads</p>
+        <h3 className="text-4xl md:text-5xl font-bold mt-2">29.6M</h3>
       </div>
 
-      <div className="sm:mb-4">
-        <p>Total Reviews</p>
-        <h3 className="text-5xl font-bold sm:text-3xl">906K</h3>
+      <div>
+        <p className="text-sm opacity-80">Total Reviews</p>
+        <h3 className="text-4xl md:text-5xl font-bold mt-2">906K</h3>
       </div>
 
-      <div className="sm:mb-4">
-        <p>Active Apps</p>
-        <h3 className="text-5xl font-bold sm:text-3xl">132+</h3>
+      <div>
+        <p className="text-sm opacity-80">Active Apps</p>
+        <h3 className="text-4xl md:text-5xl font-bold mt-2">132+</h3>
       </div>
+
     </div>
+
   </div>
 </section>
 
