@@ -24,7 +24,7 @@ const Home = () => {
         <div className="min-h-screen bg-white">
 
             {/* Banner Section */}
-            <section className="flex flex-col items-center justify-center text-center py-20 px-4 sm:px-4 bg-gradient-to-b from-gray-50 to-white">
+            <section className="flex flex-col items-center justify-center text-center pt-20 pb-0 px-4 bg-gradient-to-b from-gray-50 to-white">
 
                 <h1 className="text-4xl md:text-6xl font-black text-gray-900 leading-tight max-w-4xl sm:text-3xl">
                     We Build <br />
@@ -57,39 +57,39 @@ const Home = () => {
                 </div>
 
                 {/* Hero Image */}
-                <div className="mt-16 w-full max-w-5xl mx-auto px-6 sm:px-2">
+                <div className="mt-16  w-full max-w-5xl mx-auto px-6 sm:px-2">
                     <img src={heroImg} alt="Hero Banner" className="w-full h-auto" />
                 </div>
             </section>
 
             {/* Stats Section */}
-            <section className="bg-gradient-to-r from-purple-600 via-purple-500 to-indigo-600 text-white py-24 px-6">
-  <div className="max-w-6xl mx-auto">
+            <section className="bg-gradient-to-r from-purple-600 via-purple-500 to-indigo-600 text-white pt-14 pb-16 px-4 md:px-6">
+    <div className="max-w-6xl mx-auto">
 
-    <h2 className="text-2xl sm:text-4xl md:text-5xl font-extrabold text-center mb-10 md:mb-20">
-      Trusted By Millions, Built For You
-    </h2>
+        <h2 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center mb-10 md:mb-20">
+            Trusted By Millions, Built For You
+        </h2>
 
-    <div className="grid grid-cols-3 sm:grid-cols-1 gap-10 text-center">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10 text-center">
 
-      <div>
-        <p className="text-sm opacity-80">Total Downloads</p>
-        <h3 className="text-4xl md:text-5xl font-bold mt-2">29.6M</h3>
-      </div>
+            <div>
+                <p className="text-sm opacity-80">Total Downloads</p>
+                <h3 className="text-3xl md:text-5xl font-bold mt-2">29.6M</h3>
+            </div>
 
-      <div>
-        <p className="text-sm opacity-80">Total Reviews</p>
-        <h3 className="text-4xl md:text-5xl font-bold mt-2">906K</h3>
-      </div>
+            <div>
+                <p className="text-sm opacity-80">Total Reviews</p>
+                <h3 className="text-3xl md:text-5xl font-bold mt-2">906K</h3>
+            </div>
 
-      <div>
-        <p className="text-sm opacity-80">Active Apps</p>
-        <h3 className="text-4xl md:text-5xl font-bold mt-2">132+</h3>
-      </div>
+            <div>
+                <p className="text-sm opacity-80">Active Apps</p>
+                <h3 className="text-3xl md:text-5xl font-bold mt-2">132+</h3>
+            </div>
+
+        </div>
 
     </div>
-
-  </div>
 </section>
 
             {/* Trending Apps */}
